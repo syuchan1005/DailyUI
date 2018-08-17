@@ -1,6 +1,7 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-import Home from './views/Home.vue';
+import Day1 from './views/Day1.vue';
+import Day2 from './views/Day2.vue';
 
 Vue.use(Router);
 
@@ -13,8 +14,13 @@ export default new Router({
     },
     {
       path: '/1',
-      name: 'home',
-      component: Home,
+      name: 'day1',
+      component: Day1,
+    },
+    {
+      path: '/2',
+      name: 'day2',
+      component: Day2,
     },
   ],
 });

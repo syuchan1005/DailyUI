@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/DailyUI/fonts/outline-icons.cd6c777f.woff2"
   },
   {
-    "revision": "172e2256eacdf9f5cf5a",
-    "url": "/DailyUI/js/app.4158cbd4.js"
+    "revision": "95ac72aa63e306e07899",
+    "url": "/DailyUI/js/app.ef0a6a4d.js"
   },
   {
     "revision": "7ca0ae7fd95489daaff9",
@@ -80,11 +80,11 @@ self.__precacheManifest = [
     "url": "/DailyUI/img/outline-icons.82f60bd0.svg"
   },
   {
-    "revision": "a4df8313ab02eb25b9f51a9653a5ebbb",
+    "revision": "184dc5dc393626e43f1257b1fbc0bc99",
     "url": "/DailyUI/index.html"
   },
   {
-    "revision": "172e2256eacdf9f5cf5a",
-    "url": "/DailyUI/css/app.4266ccff.css"
+    "revision": "95ac72aa63e306e07899",
+    "url": "/DailyUI/css/app.fd991205.css"
   }
 ];

@@ -1,13 +1,9 @@
 <template>
-  <div id="home">
+  <div>
     <sui-segment>
       <div class="title">Title</div>
 
-      <div class="ui left icon action input">
-        <sui-icon name="user" />
-        <input type="text" placeholder="nickname">
-        <sui-button class="blue">Search</sui-button>
-      </div>
+      <sui-input icon="user" iconPosition="left" placeholder="nickname" action="Check"/>
       <sui-input placeholder="password" icon="key" iconPosition="left" />
       <sui-input placeholder="one more password" icon="key" iconPosition="left" />
       <sui-button primary>
@@ -25,7 +21,7 @@
 
 <script>
 export default {
-  name: 'home',
+  name: 'Day1',
 };
 </script>
 
