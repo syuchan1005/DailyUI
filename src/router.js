@@ -1,5 +1,6 @@
 import Vue from 'vue';
 import Router from 'vue-router';
+import Top from './views/Top.vue';
 import Day1 from './views/Day1.vue';
 import Day2 from './views/Day2.vue';
 
@@ -10,7 +11,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      redirect: '/1',
+      name: 'top',
+      component: Top,
     },
     {
       path: '/1',

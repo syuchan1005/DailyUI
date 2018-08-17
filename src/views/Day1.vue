@@ -3,9 +3,13 @@
     <sui-segment>
       <div class="title">Title</div>
 
-      <sui-input icon="user" iconPosition="left" placeholder="nickname" action="Check"/>
-      <sui-input placeholder="password" icon="key" iconPosition="left" />
-      <sui-input placeholder="one more password" icon="key" iconPosition="left" />
+      <div class="ui left icon action input">
+        <sui-icon name="user"></sui-icon>
+        <input type="text" placeholder="nickname">
+        <sui-button class="blue">Search</sui-button>
+      </div>
+      <sui-input placeholder="password" icon="key" iconPosition="left"></sui-input>
+      <sui-input placeholder="one more password" icon="key" iconPosition="left"></sui-input>
       <sui-button primary>
         Sign up
       </sui-button>
