@@ -1,19 +1,43 @@
 self.__precacheManifest = [
   {
-    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
-    "url": "/DailyUI/fonts/outline-icons.ef60a4f6.woff"
+    "revision": "0ab54153eeeca0ce03978cc463b257f7",
+    "url": "/DailyUI/fonts/icons.0ab54153.woff2"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/DailyUI/robots.txt"
   },
   {
-    "revision": "a046592bac8f2fd96e994733faf3858c",
-    "url": "/DailyUI/fonts/brand-icons.a046592b.woff"
+    "revision": "a1a749e89f578a49306ec2b055c073da",
+    "url": "/DailyUI/img/brand-icons.a1a749e8.svg"
+  },
+  {
+    "revision": "d06d6d22daf9f7a18d25",
+    "url": "/DailyUI/css/chunk-1dfc.7ddc44db.css"
+  },
+  {
+    "revision": "41cfcaf0510c1c3f0a10",
+    "url": "/DailyUI/css/chunk-4309.4f8f99cf.css"
+  },
+  {
+    "revision": "41cfcaf0510c1c3f0a10",
+    "url": "/DailyUI/js/chunk-4309.af56b9b8.js"
+  },
+  {
+    "revision": "f67631da1b099ddcd4c7",
+    "url": "/DailyUI/css/chunk-7d62.80ee5f9c.css"
+  },
+  {
+    "revision": "f67631da1b099ddcd4c7",
+    "url": "/DailyUI/js/chunk-7d62.5f32311b.js"
   },
   {
     "revision": "7ca0ae7fd95489daaff9",
     "url": "/DailyUI/css/chunk-vendors.1db13f88.css"
+  },
+  {
+    "revision": "7ca0ae7fd95489daaff9",
+    "url": "/DailyUI/js/chunk-vendors.24243334.js"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
@@ -32,24 +56,24 @@ self.__precacheManifest = [
     "url": "/DailyUI/fonts/brand-icons.c5ebe0b3.ttf"
   },
   {
-    "revision": "0ab54153eeeca0ce03978cc463b257f7",
-    "url": "/DailyUI/fonts/icons.0ab54153.woff2"
+    "revision": "ddfbd44efb7cd1e1ab1e",
+    "url": "/DailyUI/js/app.25e40c41.js"
   },
   {
-    "revision": "a1a749e89f578a49306ec2b055c073da",
-    "url": "/DailyUI/img/brand-icons.a1a749e8.svg"
+    "revision": "d06d6d22daf9f7a18d25",
+    "url": "/DailyUI/js/chunk-1dfc.33c82774.js"
   },
   {
     "revision": "cd6c777f1945164224dee082abaea03a",
     "url": "/DailyUI/fonts/outline-icons.cd6c777f.woff2"
   },
   {
-    "revision": "0c436bde848466b73ed5",
-    "url": "/DailyUI/js/app.77a06f8d.js"
+    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
+    "url": "/DailyUI/fonts/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "7ca0ae7fd95489daaff9",
-    "url": "/DailyUI/js/chunk-vendors.24243334.js"
+    "revision": "a046592bac8f2fd96e994733faf3858c",
+    "url": "/DailyUI/fonts/brand-icons.a046592b.woff"
   },
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
@@ -80,11 +104,15 @@ self.__precacheManifest = [
     "url": "/DailyUI/img/outline-icons.82f60bd0.svg"
   },
   {
-    "revision": "3c569fba4dd61e8431cfe76548adb1d9",
+    "revision": "6915c57fc9dd15a830a87f8e2f6dad74",
+    "url": "/DailyUI/img/fruit_mix_gummy.6915c57f.jpg"
+  },
+  {
+    "revision": "832d76d56f665a8f4b5b306691fd4f8a",
     "url": "/DailyUI/index.html"
   },
   {
-    "revision": "0c436bde848466b73ed5",
-    "url": "/DailyUI/css/app.e93e69eb.css"
+    "revision": "ddfbd44efb7cd1e1ab1e",
+    "url": "/DailyUI/css/app.08af9c57.css"
   }
 ];

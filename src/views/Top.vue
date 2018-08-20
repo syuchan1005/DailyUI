@@ -20,13 +20,10 @@
 <script>
 export default {
   name: 'Top',
-  data() {
-    return {
-      days: ['Sign up', 'Credit Card Checkout'],
-    };
-  },
-  mounted() {
-    console.log(this.$router);
+  computed: {
+    days() {
+      return this.$router.options.routes.slice(1).map(r => r.meta.theme);
+    },
   },
 };
 </script>

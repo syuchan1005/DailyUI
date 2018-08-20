@@ -1,28 +1,41 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import Top from './views/Top.vue';
-import Day1 from './views/Day1.vue';
-import Day2 from './views/Day2.vue';
 
 Vue.use(Router);
 
-export default new Router({
-  base: process.env.BASE_URL,
-  routes: [
-    {
-      path: '/',
-      name: 'top',
-      component: Top,
+const days = [
+  'Sign up',
+  'Credit Card Checkout',
+  'Landing Page (above the fold)',
+];
+
+const routes = [{
+  path: '/',
+  name: 'top',
+  component: Top,
+}];
+days.forEach((v, i) => {
+  routes.push({
+    component: () => import(`@/views/Day${i + 1}.vue`),
+    path: `/${i + 1}`,
+    meta: {
+      day: i + 1,
+      theme: v,
     },
-    {
-      path: '/1',
-      name: 'day1',
-      component: Day1,
-    },
-    {
-      path: '/2',
-      name: 'day2',
-      component: Day2,
-    },
-  ],
+  });
 });
+
+const router = new Router({
+  base: process.env.BASE_URL,
+  routes,
+});
+
+router.beforeEach((to, from, next) => {
+  document.title = to.meta.theme
+    ? `DailyUI Day${to.meta.day}: ${to.meta.theme}`
+    : 'DailyUI';
+  next();
+});
+
+export default router;

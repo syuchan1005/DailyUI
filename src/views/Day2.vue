@@ -8,7 +8,7 @@
           <div class="cost">100</div>
         </div>
       </div>
-      <sui-divider horizontal>Credit Card Information</sui-divider>1
+      <sui-divider horizontal>Credit Card Information</sui-divider>
       <sui-input class="owner-input" placeholder="Card Owner"></sui-input>
       <div class="input-number">
         <div>Card Number</div>
