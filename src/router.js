@@ -8,6 +8,7 @@ const days = [
   'Sign up',
   'Credit Card Checkout',
   'Landing Page (above the fold)',
+  'Calculator',
 ];
 
 const routes = [{

@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "0ab54153eeeca0ce03978cc463b257f7",
-    "url": "/DailyUI/fonts/icons.0ab54153.woff2"
+    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
+    "url": "/DailyUI/fonts/brand-icons.c5ebe0b3.ttf"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/DailyUI/robots.txt"
   },
   {
-    "revision": "a1a749e89f578a49306ec2b055c073da",
-    "url": "/DailyUI/img/brand-icons.a1a749e8.svg"
+    "revision": "0ab54153eeeca0ce03978cc463b257f7",
+    "url": "/DailyUI/fonts/icons.0ab54153.woff2"
   },
   {
     "revision": "d06d6d22daf9f7a18d25",
@@ -22,6 +22,14 @@ self.__precacheManifest = [
   {
     "revision": "41cfcaf0510c1c3f0a10",
     "url": "/DailyUI/js/chunk-4309.af56b9b8.js"
+  },
+  {
+    "revision": "9728191c4b3c941f711c",
+    "url": "/DailyUI/css/chunk-540d.e8d8d8a6.css"
+  },
+  {
+    "revision": "9728191c4b3c941f711c",
+    "url": "/DailyUI/js/chunk-540d.995f18ca.js"
   },
   {
     "revision": "f67631da1b099ddcd4c7",
@@ -52,16 +60,16 @@ self.__precacheManifest = [
     "url": "/DailyUI/fonts/icons.8e3c7f55.eot"
   },
   {
-    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
-    "url": "/DailyUI/fonts/brand-icons.c5ebe0b3.ttf"
-  },
-  {
-    "revision": "ddfbd44efb7cd1e1ab1e",
-    "url": "/DailyUI/js/app.25e40c41.js"
+    "revision": "694393fc1fd6cc644e73",
+    "url": "/DailyUI/js/app.e66f7085.js"
   },
   {
     "revision": "d06d6d22daf9f7a18d25",
     "url": "/DailyUI/js/chunk-1dfc.33c82774.js"
+  },
+  {
+    "revision": "a1a749e89f578a49306ec2b055c073da",
+    "url": "/DailyUI/img/brand-icons.a1a749e8.svg"
   },
   {
     "revision": "cd6c777f1945164224dee082abaea03a",
@@ -108,11 +116,11 @@ self.__precacheManifest = [
     "url": "/DailyUI/img/fruit_mix_gummy.6915c57f.jpg"
   },
   {
-    "revision": "832d76d56f665a8f4b5b306691fd4f8a",
+    "revision": "409245f3a0f8f6d9e40a416b8a8e78d7",
     "url": "/DailyUI/index.html"
   },
   {
-    "revision": "ddfbd44efb7cd1e1ab1e",
+    "revision": "694393fc1fd6cc644e73",
     "url": "/DailyUI/css/app.08af9c57.css"
   }
 ];
