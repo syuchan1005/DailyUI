@@ -11,6 +11,7 @@ const days = [
   'Calculator',
   'App Icon',
   'User Profile',
+  'Setting',
 ];
 
 const routes = [{

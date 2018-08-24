@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
-    "url": "/DailyUI/fonts/brand-icons.c5ebe0b3.ttf"
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/DailyUI/fonts/icons.8e3c7f55.eot"
   },
   {
-    "revision": "8f0725d029c41a1e5dc1",
+    "revision": "d85ba33f06eb7699b0f4",
     "url": "/DailyUI/css/app.08af9c57.css"
   },
   {
@@ -40,6 +40,14 @@ self.__precacheManifest = [
     "url": "/DailyUI/js/chunk-4309.af56b9b8.js"
   },
   {
+    "revision": "0f06ad129d07fd7d5f88",
+    "url": "/DailyUI/css/chunk-4ad3.bdc63ff2.css"
+  },
+  {
+    "revision": "0f06ad129d07fd7d5f88",
+    "url": "/DailyUI/js/chunk-4ad3.f7c447e9.js"
+  },
+  {
     "revision": "9728191c4b3c941f711c",
     "url": "/DailyUI/css/chunk-540d.e8d8d8a6.css"
   },
@@ -72,12 +80,12 @@ self.__precacheManifest = [
     "url": "/DailyUI/fonts/icons.b87b9ba5.ttf"
   },
   {
-    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
-    "url": "/DailyUI/fonts/icons.8e3c7f55.eot"
+    "revision": "d85ba33f06eb7699b0f4",
+    "url": "/DailyUI/js/app.09f9aef6.js"
   },
   {
-    "revision": "8f0725d029c41a1e5dc1",
-    "url": "/DailyUI/js/app.5c3fe5ce.js"
+    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
+    "url": "/DailyUI/fonts/brand-icons.c5ebe0b3.ttf"
   },
   {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
@@ -140,7 +148,7 @@ self.__precacheManifest = [
     "url": "/DailyUI/img/fruit_mix_gummy.6915c57f.jpg"
   },
   {
-    "revision": "265b0fae7e868e5abbfa2899d1497c64",
+    "revision": "0ab434f48fb3d3addc582f57b358f096",
     "url": "/DailyUI/index.html"
   },
   {

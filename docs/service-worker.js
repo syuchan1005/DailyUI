@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "/DailyUI/precache-manifest.56b38888e368a59c45252abf82193f3a.js"
+  "/DailyUI/precache-manifest.596e7ac14fd4e592c60024a2dde7ba39.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "DailyUI"});
