@@ -10,6 +10,7 @@ const days = [
   'Landing Page (above the fold)',
   'Calculator',
   'App Icon',
+  'User Profile',
 ];
 
 const routes = [{

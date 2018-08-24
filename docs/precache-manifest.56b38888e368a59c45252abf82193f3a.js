@@ -4,16 +4,24 @@ self.__precacheManifest = [
     "url": "/DailyUI/fonts/brand-icons.c5ebe0b3.ttf"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/DailyUI/robots.txt"
+    "revision": "8f0725d029c41a1e5dc1",
+    "url": "/DailyUI/css/app.08af9c57.css"
   },
   {
-    "revision": "0ab54153eeeca0ce03978cc463b257f7",
-    "url": "/DailyUI/fonts/icons.0ab54153.woff2"
+    "revision": "6421e2ddd069c3c851a9",
+    "url": "/DailyUI/css/chunk-19f4.fd428069.css"
+  },
+  {
+    "revision": "6421e2ddd069c3c851a9",
+    "url": "/DailyUI/js/chunk-19f4.d35bceb8.js"
   },
   {
     "revision": "d06d6d22daf9f7a18d25",
     "url": "/DailyUI/css/chunk-1dfc.7ddc44db.css"
+  },
+  {
+    "revision": "d06d6d22daf9f7a18d25",
+    "url": "/DailyUI/js/chunk-1dfc.33c82774.js"
   },
   {
     "revision": "42b9c4ea1464f478e0d7",
@@ -68,12 +76,12 @@ self.__precacheManifest = [
     "url": "/DailyUI/fonts/icons.8e3c7f55.eot"
   },
   {
-    "revision": "55ad5a2cf89ace40464c",
-    "url": "/DailyUI/js/app.17db6a40.js"
+    "revision": "8f0725d029c41a1e5dc1",
+    "url": "/DailyUI/js/app.5c3fe5ce.js"
   },
   {
-    "revision": "d06d6d22daf9f7a18d25",
-    "url": "/DailyUI/js/chunk-1dfc.33c82774.js"
+    "revision": "0ab54153eeeca0ce03978cc463b257f7",
+    "url": "/DailyUI/fonts/icons.0ab54153.woff2"
   },
   {
     "revision": "a1a749e89f578a49306ec2b055c073da",
@@ -120,6 +128,10 @@ self.__precacheManifest = [
     "url": "/DailyUI/img/outline-icons.82f60bd0.svg"
   },
   {
+    "revision": "2d204e63c43d42cfc4c669a104bd753a",
+    "url": "/DailyUI/img/sample.2d204e63.png"
+  },
+  {
     "revision": "1e370b8ac7909e0302e08692a55e73c5",
     "url": "/DailyUI/img/soundMeIcon.1e370b8a.svg"
   },
@@ -128,11 +140,19 @@ self.__precacheManifest = [
     "url": "/DailyUI/img/fruit_mix_gummy.6915c57f.jpg"
   },
   {
-    "revision": "cd5141eae92398bc6268c0ead14bbfcb",
+    "revision": "265b0fae7e868e5abbfa2899d1497c64",
     "url": "/DailyUI/index.html"
   },
   {
-    "revision": "55ad5a2cf89ace40464c",
-    "url": "/DailyUI/css/app.08af9c57.css"
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/DailyUI/robots.txt"
+  },
+  {
+    "revision": "709b4abed718bd362d76dd32464fd662",
+    "url": "/DailyUI/assets/day6.json"
+  },
+  {
+    "revision": "7b258d982f8921d356f01cabad410b5f",
+    "url": "/DailyUI/assets/day6.gif"
   }
 ];
